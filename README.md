@@ -33,7 +33,6 @@ The PREDICT Methodology offers a systematic framework for assessing MT suitabili
 This approach enables our business to provide the right quality for that specific content type, boost translation efficiency and reduce costs. Looking ahead, the methodology envisions integrating LLMs for automation and guidance, utilizing prompts to identify risk-mitigating strategies.
 
 This case study, a contribution from _Booking.com's_ localization team, has been adapted and shared as open-source material in the **_[AMTA 2024](https://amtaweb.org/amta-2024/)_** proceedings. With a slightly modified version available, it aims to provide value for both suppliers and buyers within the localization industry.
-
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ## Getting Started
@@ -45,7 +44,7 @@ Any Spreadsheet application capable of load a .xlsx file (MS Excel, LibreOffice,
 ### Installation
 
 To get started you can either:
-- Directly download the file [Download File 1](./downloads/file1.zip)
+- Directly download the file [PREDICT Methodology Case Study.xlsx](PREDICT%20Methodology%20Case%20Study.xlsx)
 
 or
   
@@ -53,7 +52,7 @@ or
 
    1. Clone the repository:
        ```sh
-       git clone https://github.com/username/repository-name.git
+       git clone https://github.com/paulamanzur/PREDICT-Methodology.git
        ```
    2. Open the `PREDICT Methodology Case Study.xlsx` file.
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
@@ -112,13 +111,11 @@ Parameters, such as the questions, examples, domains and associated risk weights
 To use the Excel file:
 - Navigate to the Case Study example sheets (e.g. Marketing PR Articles) and replace the information with your data (use the sheets as templates).
 - Go to the `ResultsSummary` sheet to view the results based on your data. It will automatically update based on the data entered.
-
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ## Contributing
 
 For major changes, please open an issue first to discuss what you would like to change or contact me via the Contact information below.
-
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ## License
@@ -130,9 +127,9 @@ This Excel file is licensed under the [Creative Commons Attribution-NonCommercia
 
 ## Contact
 
-Paula Manzur - [LinkedIn](https://www.linkedin.com/in/paulamanzur)
+Paula Manzur: [LinkedIn](https://www.linkedin.com/in/paulamanzur)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [paulamanzur.github.io](https://paulamanzur.github.io/)
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 ## FAQ
