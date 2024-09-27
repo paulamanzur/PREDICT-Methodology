@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-<p align="center"><img align="center" src="/assets/img/logo.png" alt="PREDICT"></p>
+<p align="center"><img align="center" src="https://repository-images.githubusercontent.com/864117981/ae9169ec-c337-4250-98da-0e90138ba39b" alt="PREDICT"></p>
 <div align="center">
   <h3 align="center">PREDICT Methodology</h3>
 
